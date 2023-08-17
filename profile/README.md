@@ -1,12 +1,4 @@
-## Hi there 👋
+# DeepTrust - DeepFake Detection
+DeepTrust mission is promote the generative AI movement by protecting human authenticity. Our goal is to provide a suite of AI-based tools to provide detection and protection from human imitation by malicious use of generative AI.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![DeepTrust Logo](./deeptrust5-white-final.jpg)
