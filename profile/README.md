@@ -1,4 +1,4 @@
-# DeepTrust: The Future of Digital Trust  
+# ䷼ DeepTrust: The Future of Digital Trust  
 
 ## Our Mission  
 
