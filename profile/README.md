@@ -2,54 +2,34 @@
 
 ## Our Mission  
 
-The rapid advancements in generative AI have brought humanity to a critical juncture: we are now forced to question the authenticity of what we see and hear in ways unprecedented in history. This moment demands a new standard—one that ensures trust in the provenance and integrity of digital content. DeepTrust is building that standard.
+Our mission is to build the trust layer of the internet starting with voice and video communication.
 
-At DeepTrust, we believe that the foundation of security is trust. But in a world where AI enables convincing voice and video impersonation, trust is no longer a given—it must be verifiable. Our mission is to redefine security for voice and video communication, empowering organizations to protect themselves against deepfake-enabled fraud, social engineering, and misinformation.  
+We are living through a transformation unlike any before. With billions of dollars being invested into artificial intelligence and immediate access to these tools, humanity has crossed a point of no return. We can no longer rely on our own eyes and ears to inform our perception of reality.
 
-## The Problem  
+The question is no longer "what is fake?" After enough exposure, the question becomes "what is even real?"
 
-Deepfake technology is no longer theoretical—it’s real, accessible, and being actively exploited. Security teams face a growing challenge:  
+This erosion of sensory trust marks a deeper psychological shift. The quantity and quality of synthetic content on the internet now challenges our very perception of reality. Because of this, we must evolve our standards for what it means to see, hear, and verify truth in the digital world.
 
-- **Voice and video are no longer inherently trustworthy.** Attackers can impersonate real people with near-perfect accuracy.  
-- **Social engineering is evolving.** Deepfakes don’t replace old scams; they enhance them, making phishing and fraud more convincing than ever.  
-- **Businesses are vulnerable.** Without real-time defenses, organizations risk financial, reputational, and operational damage from AI-enabled deception.  
+However, we believe this is not a story of doom. Instead, it is one of opportunity.
 
-The need for robust, AI-driven security solutions is urgent. We are here to meet that need.  
+The emergence of artificial intelligence and synthetic media gives us a rare chance to rebuild trust into the foundations of the internet itself. We are still very much in the early days of wide adoption of AI. Whoever contributes to this trust layer will be shaping the standards, protocols, and authentication frameworks that define the digital landscape for decades to come. We see this as similar to the creation of HTTP and the dawn of the early web.
 
-## Our Solution  
+At DeepTrust we are starting by helping to secure the digital communication channels where this erosion of trust is leaving us most vulnerable: real-time voice and video calls.
 
-DeepTrust is building the **trust layer for digital communication**—a suite of security tools designed to verify authenticity in voice and video channels while seamlessly integrating into existing workflows.  
+Voice and video have become the dominant forms of human interaction online, yet there are still no standards for authenticity or security. The same qualities that make these mediums natural and personal also make them deeply vulnerable with continued improvements to generative AI.
 
-### 🔹 **VoxGuard: AI-Powered Security for Calls**  
-VoxGuard protects real-time conversations across **Zoom, Microsoft Teams, Google Meet, and enterprise VoIP platforms** by:  
+The malicious use of artificial intelligence is accelerating social engineering attacks across the world. Voice phishing (aka vishing) has become one of the fastest growing attack vectors, threatening individuals and businesses alike. In 2024 CrowdStrike reported a 442% increase in voice phishing incidents, and by mid 2025 this total has doubled yet again.
 
-- **Detecting Deepfakes** – Identifying synthetic voices and manipulated speech.  
-- **Analyzing Context** – Flagging security risks beyond deepfakes, including phishing attempts and policy violations.  
-- **Authenticating Sources** – Embedding cryptographic signatures to verify the legitimacy of speakers.  
-- **Providing Real-Time Insights** – Delivering actionable security alerts to employees and security teams.  
+Organizations like Arup, MGM, Marks and Spencer, and many more have all suffered incidents where a single convincing phone call, whether powered by synthetic voices or not, led to tens or hundreds of millions of dollars in losses and widespread operational disruptions. Unfortunately, these are not isolated cases. These are part of a larger trend where attackers are exploiting our human tendency to use familiarity as a heuristic for trust.
 
-By embedding security directly into communication channels, VoxGuard ensures that organizations can trust the voices on the other end of the call.  
+But the problems don't stop there.
 
-### 🔹 **TerifAI: Understanding the Threat to Defend Against It**  
-Education is as important as detection. TerifAI is an interactive training tool that demonstrates the power of deepfake technology firsthand, allowing security teams to experience and understand its risks in a controlled environment. By showcasing real-world attack scenarios, we equip organizations with the knowledge to proactively defend against emerging threats.  
+Even the beneficial use of artificial intelligence in voice and video calls is facing trust related challenges. Enterprises understand the clear utility of tools such as AI notetakers and conversation agents, but struggle to adopt them at scale as most of these tools are not built with trust at their core. They lack the transparency, controls, and authorization frameworks required by security and compliance teams for safe implementation. Without these foundational safeguards, even the most helpful technology is seen as a liability rather than an ability for large organizations.
 
-## The Bigger Vision: Building the Standard for Content Authentication  
+At DeepTrust, we believe that the solution is not to reject AI but to enable its responsible use. Solving the crisis of trust in digital communication is not just about identifying what is fake, it's also about establishing a standard for what is real, provable, and verifiable. At DeepTrust we are building the systems, standards, and signals that make voice and video communication secure by default.
 
-History doesn’t repeat itself, but it often rhymes. Just as HTTPS became the standard for web security and cryptographic signatures verify transactions, we believe content authentication will be the next fundamental layer of digital trust.  
+Our goal is to ensure that every digital interaction, human or artificial, can be verified and trusted.
 
-DeepTrust is pioneering a **new model of verification**, inspired by the historical concept of **isnad**—the chain of attribution used in classical scholarship to ensure authenticity. Every piece of digital content should have a verifiable origin, whether it's generated, recorded, or modified.  
-
-### 🔹 **A Universal Standard for Trust**  
-Our vision extends beyond calls. We are working toward a future where:  
-
-- **Every piece of digital content has an immutable cryptographic signature.**  
-- **Manipulated or AI-generated media can be traced back to its origin.**  
-- **Authentication is seamless, empowering individuals and organizations to verify content integrity effortlessly.**  
-
-The future of the internet hinges on trust. **DeepTrust is building the infrastructure to ensure that trust is real, verifiable, and universal.**  
-
-## Join Us  
-
-We are at the forefront of one of the most pressing challenges in cybersecurity. If you share our vision for a more secure, transparent digital world, we want to hear from you.  
+It's not an easy mission, but it is an important one, and it's one that we fully believe is worth the tremendous amount of time and effort it will take to achieve.
 
 🔗 [deeptrust.ai](https://deeptrust.ai)  
