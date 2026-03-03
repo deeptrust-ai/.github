@@ -2,7 +2,7 @@
 
 ## Our Mission  
 
-Our mission is to build the trust layer of the internet starting with voice and video communication.
+Our mission is to ensure that every digital interaction, human or artificial, can be verified and trusted by building the trust layer of the internet starting with voice and video communication.
 
 We are living through a transformation unlike any before. With billions of dollars being invested into artificial intelligence and immediate access to these tools, humanity has crossed a point of no return. We can no longer rely on our own eyes and ears to inform our perception of reality.
 
